@@ -1,0 +1,16 @@
+Analyze this JSON file ([FILE_PATH]) and provide a concise summary with the following information:
+
+1. File purpose (1 sentence)
+2. If it's a configuration file (package.json, tsconfig.json, etc.), identify:
+   - Key dependencies and versions
+   - Configuration settings that impact development
+   - Scripts or commands defined
+3. If it's data:
+   - Data structure and schema
+   - Purpose of the data
+   - How it's likely used in the application
+
+Keep your entire analysis under 10 lines. Focus on information that would be useful for refactoring.
+
+File content:
+[FILE_CONTENT]

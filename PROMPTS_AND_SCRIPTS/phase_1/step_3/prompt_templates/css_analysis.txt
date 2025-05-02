@@ -1,0 +1,12 @@
+Analyze this CSS file ([FILE_PATH]) and provide a concise summary with the following information:
+
+1. File purpose (1 sentence)
+2. Key styling patterns or approaches used
+3. Major component styles defined
+4. Any potentially problematic styles (e.g., !important, overly specific selectors)
+5. CSS methodology used (if any, like BEM, CSS Modules, etc.)
+
+Keep your entire analysis under 10 lines. Focus on information that would be useful for refactoring.
+
+File content:
+[FILE_CONTENT]

@@ -1,0 +1,15 @@
+Analyze this TypeScript file ([FILE_PATH]) and provide a concise summary with the following information:
+
+1. File purpose (1 sentence)
+2. For each exported function/constant/type:
+   - Name
+   - Input parameters and types (if a function)
+   - Return value and type (if a function)
+   - Primary purpose (5-10 words)
+3. How this file integrates with the rest of the application
+4. Dependencies or imports used
+
+Keep your entire analysis under 10 lines. Focus on information that would be useful for refactoring.
+
+File content:
+[FILE_CONTENT]

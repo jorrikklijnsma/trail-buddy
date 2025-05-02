@@ -1,0 +1,15 @@
+Analyze this React component file ([FILE_PATH]) and provide a concise summary with the following information:
+
+1. Component name and primary purpose (1 sentence)
+2. Props/inputs it accepts (list format)
+3. What it renders or returns (1 sentence)
+4. External dependencies:
+   - Hooks used (useState, useEffect, custom hooks)
+   - Context providers accessed
+   - API calls or data fetching
+5. Key behaviors or interactions
+
+Keep your entire analysis under 10 lines. Focus on information that would be useful for refactoring.
+
+File content:
+[FILE_CONTENT]
